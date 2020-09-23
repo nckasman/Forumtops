@@ -1,12 +1,10 @@
-{% extends "layout.html" %}
-
-{% block body %}
-  <div class="jumbotron text-center">
-    <h1>Welcome To FlaskApp</h1>
-    <p class="lead">This is a project for MyFlaskApp</p>
-    {% if session.logged_in == NULL %}
-      <a href="/register" class="btn btn-primary btn-lg">Register</a>
-      <a href="/login" class="btn btn-success btn-lg">Login</a>
-    {% endif %}
-  </div>
+{% extends "layout.html" %} {% block body %}
+<div class="jumbotron text-center">
+  <h1>Welcome To Forumtops</h1>
+  <p class="lead">This is a microblog project</p>
+  {% if session.logged_in == NULL %}
+  <a href="/register" class="btn btn-primary btn-lg">Register</a>
+  <a href="/login" class="btn btn-success btn-lg">Login</a>
+  {% endif %}
+</div>
 {% endblock %}
