@@ -1,6 +1,6 @@
 # Forumtops
 
-### Forumtops was made **Python Flask**. As a microblog, it can register accounts with names, usernames, and passwords. Logging in allows you to make posts, edit posts, and delete posts, which can all be viewed on the website by anyone.
+### Forumtops was made in **Python Flask**. As a microblog, it can register accounts with names, usernames, and passwords. Logging in allows you to make posts, edit posts, and delete posts, which can all be viewed on the website by anyone.
 
 ---
 
