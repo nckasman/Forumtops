@@ -25,7 +25,7 @@
 * On the dashboard, you can create posts/articles.
 * Press "Add Article" to begin creating a new post.
 
-4) Creating a post.
+### 4) Creating a post
 
 ![Post](https://i.ibb.co/tBZsJWx/unknown.png)
 
@@ -33,7 +33,7 @@
 * Body content comes with several text editing tools.
 * Once you're happy with what you've written, you can press Submit to finish creating the post.
 
-5) Where is my post now?
+### 5) Where is my post now?
 
 ![Dashboard](https://i.ibb.co/fdyjCw7/unknown.png)
 
